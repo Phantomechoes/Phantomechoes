@@ -14,5 +14,5 @@ introduce myself
 
 :dolphin:其他
 - machine learning or deep learning的小伙伴可以随时交流（非工作日）
-- 对ACM-ICPC，数竞，程序设计大赛或者其他人工智能类等比赛有兴趣可以交流
+- 对数竞，程序设计大赛或者其他人工智能类等比赛有兴趣可以交流
 - 对人工智能，计算数学感兴趣

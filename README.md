@@ -1,11 +1,11 @@
-**大家好，初次见面，我是Phantomechoes**
+**大家好，初次见面，我是Taiyang**
 
 introduce myself
 
 :teddy_bear:个人简介
-- 在一名在校本科生
-- 平时会用很长时间对deep learning进行深入研究，最近做transformer,多模态有关的一些学习
-- 喜欢独立思考，反思，看一些paper，:ping_pong:
+- 目前正在学习coze工作流一些知识
+- 养基小白，正在搭建一个可以适用于自己投资策略的决策周期模型
+- 持续进步，健身、骑行爱好者
 
 :lizard:联系方式
 - QQ:3347427897@qq.com
@@ -13,6 +13,6 @@ introduce myself
 -Gmail:zltt51047@gmail.com
 
 :dolphin:其他
-- machine learning or deep learning的小伙伴可以随时交流（非工作日）
-- 对数竞，程序设计大赛或者其他人工智能类等比赛有兴趣可以交流
-- 对人工智能，计算数学感兴趣
+- 可以留言一起学习共同进步
+- 力图成为养🐥好手
+- 身体健康，生活顺利
